@@ -33,8 +33,8 @@ Para visualizar a apresentação, é necessário ter o Power BI Desktop instalad
 
 ## 📎 Arquivos Disponíveis
 
-- `base_dados_comercial.xlsx` – Base de dados fictícia
-- `apresentacao_powerbi.pbix` – Dashboard interativo
+- `Dados_Comerciais.xlsx` – Base de dados fictícia
+- `Mini projeto 2.pbix` – Dashboard interativo
 
 ## 📚 Créditos
 
