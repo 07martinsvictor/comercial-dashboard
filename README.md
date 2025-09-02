@@ -1,58 +1,3 @@
-📌 This README is available in both English and Portuguese.  
-*(Versão em português abaixo)*
-
----
-
-## 🇬🇧 English Version
-
-
-# 📊 Practical Project: Commercial Performance Analysis with Power BI
-
-This repository contains a practical project developed during the course **Microsoft Power BI for Business Intelligence and Data Science**, offered by [Data Science Academy](https://www.datascienceacademy.com.br/). The goal is to apply BI and data visualization techniques using Power BI in a simulated commercial scenario.
-
-## 🧠 Project Objective
-
-Analyze the sales performance of a fictional company using commercial data provided by Data Science Academy. Through interactive dashboards, key metrics were explored to support strategic decision-making.
-
-## 📁 Data Used
-
-- **Source:** Fictional dataset provided by Data Science Academy.
-- **Format:** Excel file (.xlsx) included in this repository.
-- **Contents:** Sales transactions, product details, regional data, sales representatives, and performance targets.
-
-## 🧭 Power BI Presentation Index
-
-1. Sales Overview  
-2. Regional Analysis  
-3. Sales Representative Performance  
-4. Target vs. Actual Comparison  
-5. Time-Based Trends  
-6. Conclusions and Insights  
-
-## 🛠️ Tools & Technologies
-
-- Microsoft Power BI  
-- Microsoft Excel  
-- Power Query  
-- DAX (Data Analysis Expressions)
-
-## 📌 How to View
-
-To explore the presentation, you’ll need to have Power BI Desktop installed. Simply open the `.pbix` file included in this repository.
-
-## 📎 Files Included
-
-- `Dados_Comerciais.xlsx` – Fictional dataset  
-- `Mini projeto 2.pbix` – Interactive dashboard presentation
-
-## 📚 Credits
-
-This project was created as part of the **Data Science Academy** course. All data used is fictional and intended solely for educational purposes.
-
----
-
-## 🇧🇷 Versão em Português
-
 
 # 📊 Projeto Prático: Análise de Performance Comercial com Power BI
 
@@ -70,12 +15,10 @@ Analisar a performance de vendas de uma empresa fictícia com base em dados come
 
 ## 🧭 Índice da Apresentação Power BI
 
-1. Visão Geral das Vendas
-2. Análise por Região
-3. Performance dos Representantes
-4. Comparativo de Metas vs. Realizado
-5. Tendências Temporais
-6. Conclusões e Insights
+1. Narrativa Inteligente
+2. Principais Influenciadores de Vendas
+3. Total de Vandas por Categoria e Pontos de Venda
+4. Performance de Vendedores por Região 
 
 ## 🛠️ Ferramentas Utilizadas
 
@@ -97,7 +40,3 @@ Para visualizar a apresentação, é necessário ter o Power BI Desktop instalad
 
 Este projeto foi desenvolvido como parte do curso da **Data Science Academy**. Todos os dados utilizados são fictícios e destinados exclusivamente para fins educacionais.
 
----
-
-
----
